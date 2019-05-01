@@ -1,9 +1,0 @@
-#Name: Cool Documentation Stuff
-#Purpose: To show Mr. Seidel that i can type
-#References: mrseidel.com
-#Author:  Me
-#Created: 2/4/2019
-#Updated: ...
-from Tkinter import *
-app = Tk()
-app.mainloop() 
